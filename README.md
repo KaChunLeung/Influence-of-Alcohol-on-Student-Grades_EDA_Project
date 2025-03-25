@@ -34,7 +34,7 @@ This repository explores the relationship between alcohol consumption and academ
 Clone the repository and navigate to the desired notebook to replicate analysis or further explore the datasets and methodologies used.
 
 ```bash
-git clone https://github.com/yourusername/Influence-of-Alcohol-on-Student-Grades.git
+git clone https://github.com/yourusername/Influence-of-Alcohol-on-Student-Grades_EDA_Project.git
 cd Influence-of-Alcohol-on-Student-Grades
 ```
 
